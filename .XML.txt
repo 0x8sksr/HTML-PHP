@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<logininfo>
+  <data username="shubham" password="123456">
+  <First_name lang="eng">shubham</First_name>
+  <Last_name>kumar</Last_name>
+  <Address>Bihar</Address>
+  <Postal_code>800002</Postal_code>
+  <Phone_number>8290980279</Phone_number>
+  <Email_address>shubham285@gmail.com</Email_address>
+  <Area_of_interest>gameing</Area_of_interest>
+  <Skills>blogg</Skills>
+  </data>
+  <data username="Sonu" password="0012345">
+  <First_name lang="eng">Sonu</First_name>
+  <Last_name>Raj</Last_name>
+  <Address>Bihar</Address>
+  <Postal_code>823001</Postal_code>
+  <Phone_number>8309872896</Phone_number>
+  <Email_address>sonu123@gmail.com</Email_address>
+  <Area_of_interest>Travelling</Area_of_interest>
+  <Skills>Technology Knowledge</Skills>
+  </data>
+  <data username="Vivek" password="987654">
+  <First_name lang="eng">Vivek</First_name>
+  <Last_name>kumar</Last_name>
+  <Address>Bihar</Address>
+  <Postal_code>841266</Postal_code>
+  <Phone_number>9383662775</Phone_number>
+  <Email_address></Email_address>
+  <Area_of_interest></Area_of_interest>
+  <Skills></Skills>
+  </data>
+  <data username="rahul" password="678901">
+  <First_name lang="eng">rahul</First_name>
+  <Last_name>raj</Last_name>
+  <Address>Hyderabad</Address>
+  <Postal_code>799001</Postal_code>
+  <Phone_number>8252792901</Phone_number>
+  <Email_address>RAhul@gmail.com</Email_address>
+  <Area_of_interest>Traveling</Area_of_interest>
+  <Skills>Business</Skills>
+  </data>
+  <data username="Raj" password="456789">
+  <First_name lang="eng">Raj</First_name>
+  <Last_name>Raj</Last_name>
+  <Address>Tripura</Address>
+  <Postal_code>799001</Postal_code>
+  <Phone_number>82935098626</Phone_number>
+  <Email_address>raj1@gmail.com</Email_address>
+  <Area_of_interest>youtybe</Area_of_interest>
+  <Skills>vlog</Skills>
+  </data>
+</logininfo>              
+
+It also save as ( .xml )
