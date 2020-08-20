@@ -1,0 +1,16 @@
+<html>
+<body>
+<?php
+echo "<table border=1 cellspacing=1 cellpading=1>
+<h4>STUDENT DATA</h4>
+<tr bgcolor=blue> <td>S.NO</td> <td>Student Name</td> <td>Course Coude</td> <td>Mark Obtained</td> <td>Divion</td>
+<tr><td>1</td><td>Rahul</td><td>CSE57D</td><td>90</td><td>l</td></tr>
+<tr><td>1</td><td>Raj</td><td>CSE57D</td><td>85</td><td>l</td></tr>
+<tr><td>1</td><td>Sanjay</td><td>CSE57D</td><td>55</td><td>ll</td></tr>
+<tr><td>1</td><td>Newton</td><td>CSE57D</td><td>78</td><td>l</td></tr>
+<tr><td>1</td><td>Mohan</td><td>CSE57D</td><td>79</td><td>l</td></tr>
+<tr><td>1</td><td>John</td><td>CSE57D</td><td>95</td><td>l</td></tr>
+</table>";
+?>
+</html>
+</body>
